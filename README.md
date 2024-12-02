@@ -4,6 +4,11 @@
 <!-- GitHub stats with icons and gruvbox theme -->
 ![t0khyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0khyo&show_icons=true&theme=gruvbox&rank_icon=github)
 
+<!-- Link to view all repositories -->
+<p align="left">
+  <a href="https://github.com/t0khyo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFC43D?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 ## 📚 Technology Stack  
 
 <!-- Skills icons showcasing your tech stack -->
@@ -13,7 +18,4 @@
 
 </div>  
 
-<!-- Link to view all repositories -->
-<p align="left">
-  <a href="https://github.com/t0khyo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFC43D?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+
