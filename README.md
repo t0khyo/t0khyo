@@ -1,7 +1,7 @@
 <!-- Typing animation introducing yourself -->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=FFC43D&center=true&width=435&lines=Hi+there%2C+I'm+Abdelrahman+%F0%9F%91%8B;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Passionate+about+Databases+%26+Clean+Code;Open+to+learning+any+tech+stack;Let's+build+something+awesome+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=FFC43D&center=true&width=435&lines=Hi+there%2C+I'm+Abdelrahman+%F0%9F%91%8B;Java+Backend+Developer;Passionate+about+Databases;Let's+build+something+awesome+%F0%9F%9A%80" 
     alt="Typing SVG with multiple lines" 
   />
 </a>
