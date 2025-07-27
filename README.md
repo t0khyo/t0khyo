@@ -15,7 +15,7 @@
   <a href="https://github.com/t0khyo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFC43D?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📚 Technology Stack  
+## Technology Stack  
 
 <!-- Skills icons showcasing your tech stack -->
 <div align="center">
