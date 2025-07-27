@@ -20,7 +20,7 @@
 <!-- Skills icons showcasing your tech stack -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,js,python,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,js,angular,python,docker,git,linux)](https://skillicons.dev)
 
 </div>  
 
